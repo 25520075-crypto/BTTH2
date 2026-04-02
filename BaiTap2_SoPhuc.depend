@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775149478 source:c:\sadasd\baitap2_sophuc\main.cpp
+	<iostream>
+	"SoPhuc.h"
+
+1775149318 c:\sadasd\baitap2_sophuc\sophuc.h
+
+1775149423 source:c:\sadasd\baitap2_sophuc\sophuc.cpp
+	<iostream>
+	"SoPhuc.h"
+
